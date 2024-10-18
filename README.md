@@ -1,8 +1,7 @@
-[![header](./banner.png)](https://aar.one)
 
 # Oi, World! I'm Ramy 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=ramyjaber1&label=Profile%20views&color=60598F&style=flat)
 
 <div class="github-introduction">
 
@@ -24,9 +23,9 @@ Additionally, I'm currently diving into the world of DevOps, expanding my skill 
 
 ## 🌟 Featured Projects
 
-- **[Violet Void Theme](https://github.com/aaronedev/violet-void-theme)** 🟣: **Violet Void Theme** is a set of configuration files designed to give Windows an amazing visual overhaul with a sleek, violet-toned aesthetic. This theme applies consistent violet tones throughout the interface, providing a unique and cohesive look that enhances the user experience. In addition to the visual enhancements, I’ve also integrated several Linux-like functionalities into Windows, making the operating system more powerful and customizable for advanced users. Furthermore, I am working on custom glyphs to enhance the [Windows Terminal](https://github.com/microsoft/terminal) experience, making it more visually appealing and user-friendly.
+- Appointment Management System 📅: I am currently developing an Appointment Management System that streamlines scheduling for businesses and professionals. This project includes features such as automated reminders, real-time availability updates, and an intuitive user interface for managing client appointments efficiently. My goal is to reduce no-shows and optimize the overall scheduling process, making it easier for users to manage their time effectively.
 
-- I am working on a comprehensive **PowerShell profile** that integrates all my custom configurations into a powerful and cohesive setup. This profile is designed to streamline workflows and enhance productivity by leveraging the full potential of PowerShell, combined with my Violet Void Theme. Additionally, I am developing this profile to be fully featured and driven by Linux-like commands, bringing the familiarity and efficiency of Linux command-line tools to the Windows environment. Once finalized, I plan to publish this profile so that others can benefit from a fully optimized and visually appealing PowerShell environment.
+- Project Management System 🛠️: I am also working on a Project Management System designed to help teams collaborate, track progress, and meet deadlines. This system includes task tracking, milestone setting, time logging, and detailed reporting features to ensure projects are completed on time and within scope. My focus is on building a scalable solution that can adapt to various industries and team sizes, empowering users to stay organized and productive.
 
 ## 📈 My GitHub stats
 
@@ -69,7 +68,6 @@ Accelerating my workflow and productivity on Windows with the following tools an
 
   ![MacOS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
   ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
-  ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
   ![Wezterm](https://img.shields.io/badge/Wezterm-purple)
   ![Fish](https://img.shields.io/badge/Fish-blue)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
