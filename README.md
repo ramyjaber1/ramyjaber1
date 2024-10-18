@@ -1,6 +1,6 @@
 [![header](./banner.png)](https://aar.one)
 
-# Oi, World! I'm Aaron 👋
+# Oi, World! I'm Ramy 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
 
@@ -12,14 +12,14 @@ Additionally, I'm currently diving into the world of DevOps, expanding my skill 
 
 </div>
 
-- 💼 Interested in working together? Reach out to me via <a href="mailto:code@aar.one">email.</a>
+- 💼 Interested in working together? Reach out to me via <a href="ramy7rivalz@gmail.com">email.</a>
 - 💬 Got a question or just curious about something? Feel free to ask!
 
 <div class="badges-intro">
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
 </div>
 
 ## 🌟 Featured Projects
@@ -56,22 +56,22 @@ Whenever I write documentation, I try to keep the following steps in mind to ens
 
 ### <p align="center">⚙️ My development environment </p>
 
-> I grew up with Windows and it holds a special place in my heart. It’s my go-to operating system for development, where I make extensive use of the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use PowerShell, which I’ve customized with my own configurations built from and modules scratch, to create a highly efficient and personalized terminal environment.
+> I grew up with Windows, but macOS has become my go-to operating system for development. On macOS, I make extensive use of Homebrew for managing packages and tools, and I rely on WezTerm as my terminal emulator for a highly customizable and efficient environment. My shell of choice is Fish, which I’ve configured with plugins and themes to enhance productivity. For code editing, Neovim is my primary tool, offering a highly efficient and flexible coding experience. I integrate Git for version control, and I also leverage Azure for cloud development, creating a robust and streamlined workflow on macOS.
 
 <div class="table-devenvironment">
   <table style="font-size: 11px">
   <tr>
   <td valign="top" width="50%">
 
-#### 🖥️ Windows PowerUser
+#### 🖥️ MacOS PowerUser
 
 Accelerating my workflow and productivity on Windows with the following tools and configurations:
 
-  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+  ![MacOS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
+  ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
   ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-  ![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
-  ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![Wezterm](https://img.shields.io/badge/Wezterm-purple)
+  ![Fish](https://img.shields.io/badge/Fish-blue)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   </td>
   <td valign="top" width="50%">
@@ -81,10 +81,9 @@ Accelerating my workflow and productivity on Windows with the following tools an
 I love working with Linux, and I'm always exploring new things in the vast open-source world.
 
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-  ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
-  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+  ![Hyprland](https://img.shields.io/static/v1?style=for-the-badge&message=Hyprland&color=222222&logo=Hyprland&logoColor=58E1FF&label=)
+  ![Yay](https://img.shields.io/badge/-Yay-557C94?style=flat&logo=yay&logoColor=white)
   </td>
   </tr>
   </table>
